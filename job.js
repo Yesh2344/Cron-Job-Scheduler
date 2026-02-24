@@ -1,3 +1,4 @@
+# Minor edit
 class Job {
     constructor({ name, schedule, command }) {
         this.name = name;
