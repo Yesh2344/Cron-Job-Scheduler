@@ -30,3 +30,5 @@ The Cron Job Scheduler provides the following API endpoints:
 
 ## License
 The Cron Job Scheduler is licensed under the MIT License.
+
+Additional details added.
