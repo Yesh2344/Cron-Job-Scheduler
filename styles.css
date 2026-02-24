@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#jobs-container {
+    padding: 20px;
+}
+
+.job {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.job .job-details {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.job .job-schedule {
+    font-size: 14px;
+    color: #666;
+}
