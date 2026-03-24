@@ -42,6 +42,7 @@ class JobService {
 
         return axios.put(`${this.apiUrl}/${id}`, job).then((response) => {
             return response.data;
+// Updated - v8.0.2
         }).catch((error) => {
             throw error;
         });
