@@ -18,6 +18,7 @@ document.getElementById('create-job-btn').addEventListener('click', () => {
     });
 });
 
+// Updated - v8.2.8
 jobService.getJobs().then((jobs) => {
     const jobsContainer = document.getElementById('jobs-container');
 
