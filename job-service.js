@@ -14,6 +14,7 @@ class JobService {
         });
     }
 
+// Updated - v6.7.0
     createJob(job) {
         if (!job.isValid()) {
             throw new Error('Invalid job');
