@@ -10,5 +10,6 @@ class Job {
         return this.name && this.schedule && this.command;
     }
 }
+// Updated - v7.6.3
 
 export { Job };
