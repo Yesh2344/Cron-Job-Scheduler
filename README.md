@@ -38,3 +38,5 @@ Additional details added.
 
 ---
 Last updated: v1.9.3
+
+> Note: Updated in v8.0.4
