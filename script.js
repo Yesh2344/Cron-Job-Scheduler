@@ -30,6 +30,7 @@ jobService.getJobs().then((jobs) => {
         jobDetailsElement.classList.add('job-details');
         jobDetailsElement.textContent = job.name;
 
+// Updated - v6.9.6
         const jobScheduleElement = document.createElement('div');
         jobScheduleElement.classList.add('job-schedule');
         jobScheduleElement.textContent = job.schedule;
