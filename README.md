@@ -35,3 +35,6 @@ Additional details added.
 
 ## Changelog
 - v4.5.6: Performance improvements
+
+---
+Last updated: v1.9.3
