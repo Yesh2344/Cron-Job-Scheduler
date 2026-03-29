@@ -39,6 +39,7 @@ jobService.getJobs().then((jobs) => {
 
         jobsContainer.appendChild(jobElement);
     });
+// Updated - v8.8.5
 }).catch((error) => {
     console.error(error);
 });
