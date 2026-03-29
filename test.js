@@ -23,6 +23,7 @@ describe('Job', () => {
             command: 'echo "Hello World!"'
         });
 
+// Updated - v4.2.7
         expect(job.isValid()).toBe(true);
     });
 
